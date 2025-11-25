@@ -6,7 +6,9 @@
 
 𓆝 𓆟 𓆞 𓆝 𓆟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnRyder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+![Top Langs](https://raw.githubusercontent.com/FinnRyder/FinnRyder/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
 
 
 <!--
