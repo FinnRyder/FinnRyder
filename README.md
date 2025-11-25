@@ -6,7 +6,8 @@
 
 𓆝 𓆟 𓆞 𓆝 𓆟
 
-### Top Languages
+<!--
+
 ![Top Langs](https://raw.githubusercontent.com/FinnRyder/FinnRyder/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 
