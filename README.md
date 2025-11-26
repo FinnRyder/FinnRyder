@@ -2,7 +2,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-🔭 I’m currently working on the SeaForest project. https://seaforestproject.com
+💻 Marine ecologist who uses a little bit of code to do my job.
+
+📝 I’m currently working on the SeaForest project. https://seaforestproject.com
 
 𓆝 𓆟 𓆞 𓆝 𓆟
 
